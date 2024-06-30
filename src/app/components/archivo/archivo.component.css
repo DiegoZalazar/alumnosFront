@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    border: 1px solid;
+    border-top: .7px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    width: 50%;
+    flex-direction: column;
+}
+
+.li{
+    margin-left: 50px;
+}
